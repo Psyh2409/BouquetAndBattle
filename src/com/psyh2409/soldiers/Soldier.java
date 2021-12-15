@@ -1,9 +1,6 @@
 package com.psyh2409.soldiers;
 
-import java.util.Random;
-
 public abstract class Soldier {
-    public static Random random = new Random();
     private double health;
     private boolean shield;
 
